@@ -2,5 +2,11 @@
 name = "file_reader_rust"
 version = "0.1.0"
 edition = "2024"
+authors = ["Mitun Kanti Paul <mitunkantipaul.sec@gmail.com>"]
+description = "A Rust project for file reading operations"
+repository = "https://github.com/mitunkantipaul/file_reader_rust"
+license = "MIT"
+keywords = ["file", "reader", "rust"]
+categories = ["filesystem"]
 
 [dependencies]
