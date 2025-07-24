@@ -6,7 +6,7 @@ A Rust project for file reading operations.
 
 ### Prerequisites
 
-- Rust 1.85.0 or later
+- Rust 1.88.0 or later
 
 ### Building
 
@@ -17,11 +17,11 @@ cargo build
 ### Running
 
 ```bash
-cargo run
+cargo run -- <file_path>
 ```
 
-### Testing
+<!-- ### Testing
 
 ```bash
 cargo test
-```
+``` -->
